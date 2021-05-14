@@ -1,0 +1,5 @@
+tag_type = "span"
+tag_identifier = "id"
+tag_identifier_value = "stockStatus"
+in_stock_str = "In Stock"
+out_of_stock_str = "Out of Stock"
